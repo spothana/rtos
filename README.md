@@ -1,6 +1,6 @@
 # RTOS Architectural Overviews & Visualizations
 
-Welcome to the **RTOS** repository. This project provides a comprehensive visual guide and architectural overview of popular Real-Time Operating Systems, specifically focusing on **FreeRTOS** and **Zephyr**.
+This project provides a comprehensive visual guide and architectural overview of popular Real-Time Operating Systems, specifically focusing on **FreeRTOS** and **Zephyr**.
 
 The repository contains high-quality diagrams and visualizations designed to help developers, students, and systems architects understand the internal structures, kernel components, and operational flows of these RTOS platforms.
 
